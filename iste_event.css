@@ -796,3 +796,11 @@ body.dark .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   position: relative;
   top: 20px;
 } */
+.venue{
+  position: relative;
+  left: -16px;
+}
+.time{
+  position: relative;
+  left: -14px;
+}

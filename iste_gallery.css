@@ -680,3 +680,18 @@ body.dark .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     width: 40px;
   }
 }
+.images{
+    display: grid;
+    grid-template-rows:auto;
+    grid-template-columns: auto;
+}
+
+
+ .upcoming-sec {
+  padding: 5vh 0;
+  border-bottom: 1px solid #000000;
+}
+ .upcoming-sec .heading {
+  font-size: 30px;
+  color: #0b0b0b;
+}
