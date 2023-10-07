@@ -29,6 +29,49 @@ body {
   background-color: #8167a9;
 }
 
+.one{
+  background-color: yellowgreen;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.two{
+  background-color:#F78CA2;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.three{
+  background-color: #82A0D8;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.four{
+  background-color: #FF8D29;
+  padding: 10px;
+  border-radius: 20px;
+}
+.five{
+  background-color: #F5FDB0;
+  padding: 10px;
+  border-radius: 20px;
+}
+.six{
+  background-color: #F9B208;
+  padding: 10px;
+  border-radius: 20px;
+}
+.seven{
+  background-color: #A799B7;
+  padding: 10px;
+  border-radius: 20px;
+}
+.eight{
+  background-color: #BD2000;
+  padding: 10px;
+  border-radius: 20px;
+}
 /* #Navigation
 ================================================== */
 
